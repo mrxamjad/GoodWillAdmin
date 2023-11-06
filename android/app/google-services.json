@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "573827946476",
+    "firebase_url": "https://good-will-4d66e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "good-will-4d66e",
+    "storage_bucket": "good-will-4d66e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573827946476:android:98be773e624cd111f352c9",
+        "android_client_info": {
+          "package_name": "com.example.color_wala_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOzKJ3S3ClLg08AIAhZpK_gO3Usw7C3qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573827946476:android:5ec0a496e7993fa3f352c9",
+        "android_client_info": {
+          "package_name": "com.example.good_will"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOzKJ3S3ClLg08AIAhZpK_gO3Usw7C3qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
